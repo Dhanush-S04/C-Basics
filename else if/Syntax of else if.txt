@@ -1,0 +1,17 @@
+Syntax
+ 
+if(condition)
+{
+    statement;
+}
+else if(contidion)
+{
+    statement;
+}
+else
+{
+    statement;
+}
+ 
+
+
